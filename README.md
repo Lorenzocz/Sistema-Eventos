@@ -11,7 +11,14 @@ indica si la persona tiene acceso o no a una actividad de un evento en especific
 
 # Video del funcionamiento de la aplicación.
 
-
+# Código disponible.
 
 ![Farmers Market Finder Demo](Video/vi.gif)
+
+
+# Fotos del aplicativo.
+
+![Farmers Market Finder Demo](Video/s1.jpg)
+![Farmers Market Finder Demo](Video/s2.jpg)
+![Farmers Market Finder Demo](Video/s3.jpg)
 
